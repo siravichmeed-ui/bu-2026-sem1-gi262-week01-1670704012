@@ -12,7 +12,7 @@ public class Workshop : MonoBehaviour
         // As04_AndOrOperatorExample();
         // As05_GuessingNumberExample();
         // As06_GuessingNumberMoreOrLessExample();
-        // As07_VerifyIdentityExample();
+         As07_VerifyIdentityExample();
     }
 
     public bool isSixOClock;
